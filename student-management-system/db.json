@@ -1,0 +1,23 @@
+{
+  "students": [
+    {
+      "id": "2",
+      "name": "Bob",
+      "age": 22,
+      "major": "Mathematics"
+    },
+    {
+      "id": "3",
+      "name": "Charlie",
+      "age": 21,
+      "major": "Physics"
+    },
+    {
+      "name": "Oviya B",
+      "age": 19,
+      "major": "Computer science",
+      "id": "nKUCnzNgx9w"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
